@@ -15,9 +15,6 @@ Perfume Shop là một website bán nước hoa trực tuyến, giúp người d
 Frontend: HTML, CSS, JavaScript (hoặc Vue.js )
 Công cụ hỗ trợ: GitHub, VS Code.
 
-
-Truy cập tại: http://localhost/perfume-shop
-
 👥 Thành viên nhóm (nếu có)
 Nguyễn Văn Long – Frontend
 
