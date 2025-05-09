@@ -1,24 +1,31 @@
-# Shop-for-perfume
-🌸 Perfume Shop - Website Bán Nước Hoa
-🛍️ Giới thiệu
-Perfume Shop là một website bán nước hoa trực tuyến, giúp người dùng dễ dàng tìm kiếm, xem chi tiết sản phẩm, thêm vào giỏ hàng và đặt hàng. Website hướng đến giao diện thân thiện, dễ sử dụng và tối ưu trải nghiệm người dùng.
+# 💻 Dự án Cá Nhân – Vue.js + MockAPI
 
-⚙️ Tính năng chính
-🔍 Tìm kiếm nước hoa theo tên, loại, thương hiệu
-📄 Xem chi tiết sản phẩm: mô tả, dung tích, giá, đánh giá
-🛒 Thêm/sửa/xóa sản phẩm trong giỏ hàng
-👤 Đăng ký/Đăng nhập người dùng
-💳 Đặt hàng và xác nhận đơn hàng
-🛠️ Trang quản trị (admin): thêm/xóa/sửa sản phẩm, quản lý đơn hàng
+## 🛍️ Perfume Shop – Website Bán Nước Hoa
 
-🧰 Công nghệ sử dụng
-Frontend: HTML, CSS, JavaScript (hoặc Vue.js )
-Công cụ hỗ trợ: GitHub, VS Code.
+### Mô tả
+Website bán nước hoa trực tuyến với giao diện hiện đại, thân thiện người dùng. Cho phép xem danh sách sản phẩm, xem chi tiết và thêm vào giỏ hàng.
 
-👥 Thành viên nhóm (nếu có)
-Nguyễn Văn Long – Frontend
+### 🔧 Công nghệ sử dụng
+- Vue.js, HTML, CSS, JavaScript
+- Axios để call API từ MockAPI.io
+- Responsive design
 
-📌 Ghi chú
-Website đang ở phiên bản thử nghiệm
+### 🚀 Tính năng
+- Hiển thị danh sách sản phẩm nước hoa từ MockAPI
+- Xem chi tiết từng sản phẩm
+- Thêm/xóa sản phẩm khỏi giỏ hàng
+- Giao diện tương thích điện thoại và máy tính
 
-Dữ liệu sản phẩm mẫu, chưa tích hợp thanh toán thật
+---
+
+## 🎯 Mục tiêu học tập
+- Thành thạo Vue.js cơ bản và thao tác với REST API
+- Rèn luyện kỹ năng thiết kế giao diện và xử lý dữ liệu bất đồng bộ
+- Quản lý dự án cá nhân từ đầu đến cuối
+
+---
+
+## 📎 Ghi chú
+- Các dự án sử dụng MockAPI để mô phỏng dữ liệu (không có backend thật)
+
+
